@@ -1,0 +1,6 @@
+env-clasificar/
+__pycache__/
+modelo-entrenado/
+results/
+set_docs/
+pruebas.py
